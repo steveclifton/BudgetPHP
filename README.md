@@ -1,6 +1,6 @@
 # BudgetPHP
 
-Hacked together on a Sunday afternoon to visual our creditcard statements and spending 😬
+Hacked together on a Sunday afternoon to visualize our creditcard statements and spending 😬😬😬😬
 
 Total WIP but initially works.
 
