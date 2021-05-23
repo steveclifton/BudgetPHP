@@ -15,3 +15,12 @@ NOT optimized for efficiency or anything fancy yet.
 2. Add your mapping to the `categories.json` file
 3. Add your statements to the /Statements Folder
 4. Terminal `php -s 127.0.0.1:8111`
+
+## Uses
+- ChartJs
+- Bootstrap
+- Raw PHP
+
+## Screenshot
+
+<img width="722" alt="image" src="https://user-images.githubusercontent.com/14119296/119254636-852e5380-bc0b-11eb-98b5-ef102c6dd2ed.png">
